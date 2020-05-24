@@ -2,8 +2,7 @@
 layout: post
 title:  "20 Minute Meetings"
 categories: blog
-tags: [management, meetings]
-
+tags: [management]
 
 ---
 
@@ -62,7 +61,4 @@ This category of meetings are hard to fit into the 4 hour window since it usuall
 
 I put interviews into its own category because as an engineering manager I would consider this to be the only meeting that should run on the manager schedule (in PG's [maker's/manager's schedule](http://www.paulgraham.com/makersschedule.html) paradigm). That's because as an Engineering Manager interviewing is critical to your team's (and in turn your) growth and success and is hard to completely control the schedule since it's in part driven by the candidate's schedule as well and not all candidates will wait around to fit into your schedule. However if you are thoughtful about why you want to hire for a particular role and plan it well you shouldn't hopefully be spending your entire couple of quarters or year interviewing for your team.
 
-
-### Conclusion
-
-The point I'm trying to make here is not that the above solution or any one solution is the answer to meeting problems. Every manager's situation in their company is different, and there are 2 approaches to this problem. One is that your plan your day around your meetings and the other is that you plan your meetings around your day. I encourage the latter approach here in order to ensure that we aren't controlled entirely by our calendars.
+In conclusion, the point I'm trying to make here is not that the above solution or any one solution is the answer to meeting problems. Every manager's situation in their company is different, and there are 2 approaches to this problem. One is that your plan your day around your meetings and the other is that you plan your meetings around your day. I encourage the latter approach here in order to ensure that we aren't controlled entirely by our calendars.
